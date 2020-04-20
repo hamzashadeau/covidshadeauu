@@ -11,6 +11,8 @@ body {
 .image {
   width: 370px;
   margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 @media only screen and (max-width: 770px) {
@@ -18,7 +20,17 @@ body {
     margin: 0 10%;
   }
 
-  .image {
-    width: 100%;
+.titre{
+    color: #DE9D24 ;
+    }
+.card {
+ margin-top: 200px;
+    width: 600px;
+    height: 600px;
   }
+  .conseil{
+    padding-right: 30px;
+  }
+ 
+
 }
